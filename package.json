@@ -1,0 +1,20 @@
+{
+  "name": "pipeline",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "move your data using node.js std lib",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "ms": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [],
+  "author": "jtara1 <j@elk.gg>",
+  "license": "Apache-2.0"
+}
