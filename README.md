@@ -19,7 +19,7 @@ import { map, arraySink } from 'pipeline/steps/common.steps.js';
 const result = await pipeline(
   [1, 2, 3, 4],
   map(value => value ** 2),
-  reduceSink(),
+  arraySink(),
 );
 
 console.log(result);
