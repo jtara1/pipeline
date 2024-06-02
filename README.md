@@ -7,7 +7,7 @@ empowered by composed async generator functions and iterators
 ## Install
 
 ```shell
-npm install github:jtara1/pipeline
+npm install https://github.com/jtara1/pipeline
 ```
 
 ## Usage
